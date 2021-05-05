@@ -1,4 +1,4 @@
-# Test
+
 access_template = ['switchport mode access',
                    'switchport access vlan {}',
                    'switchport nonegotiate',
